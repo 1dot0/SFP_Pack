@@ -1,0 +1,40 @@
+Sezione 0: Gestione
+    SFP_Queen
+        Gestionale
+    SFP_Mercury
+        Database
+    SFP_Toxicity
+        Web Scanner
+Sezione 1: Diffusione
+    SFP_AnotherOneBitesTheDust
+        Virus
+    SFP_AKindOfMagic
+        Worm
+    SFP_WantToBreakFree
+        Trojan
+    SFP_ComingSoon
+        BackDoor
+    SFP_TheGreatPrender
+        ScareWare
+    SFP_CrazyLittleThingCalledLove
+        BHO
+    SFP_DontStopMeNow
+        Dialer
+Sezione 2: Effetti
+    SFP_FaceItAlone
+        Spyware
+    SFP_RadioGaGa
+        AdWare
+    SFP_IWasBornToLoveYou
+        KeyLogger
+    SFP_WeWillRockYou
+        Zombie
+    SFP_BohemianRapsody
+        Rootkit
+    SFP_KillerQueen
+        Ransomware
+Sezione 3: Varie ed Eventuali
+    SFP_WhiskeyInTheJar
+        On a USB Key copies all the files in the computer it is insert into
+    SFP_Roger
+	  Website
