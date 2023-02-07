@@ -1,0 +1,89 @@
+html {
+    background-color: #252525;
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    background-color: #F8F8F9;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: width 0.5s, height 0.5s;
+}
+  
+#oval {
+    width: 300px;
+    height: 500px;
+    border: 75px solid #F8F8F9;
+    border-top-width: 15px;
+    border-bottom-width: 15px;
+    border-radius: 75%/70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    transition: width 0.5s, height 0.5s;
+}
+
+.animation-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#top-L-one{
+    width: 250px;
+    height: 100px;
+    border: 3px solid #F8F8F9;
+    background-color: #F8F8F9;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+}
+  
+#top-L-two{
+    width: 100px;
+    height: 250px;
+    border: 3px solid #F8F8F9;
+    background-color: #F8F8F9;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+}
+
+#bot-L-one{
+  width: 250px;
+  height: 100px;
+  border: 3px solid #F8F8F9;
+  background-color: #F8F8F9;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin: 20px;
+}
+
+#bot-L-two{
+    width: 100px;
+    height: 250px;
+    border: 3px solid #F8F8F9;
+    background-color: #F8F8F9;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 20px;
+}
