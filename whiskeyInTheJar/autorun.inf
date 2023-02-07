@@ -1,0 +1,5 @@
+[Autorun]
+Open=whiskeyInTheJar.py
+Action=Start whiskeyInTheJar
+Label=My Portable PC
+Icon=whiskeyInTheJar.py
